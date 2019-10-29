@@ -937,6 +937,7 @@
               'id': this.inputId,
               'aria-expanded': this.dropdownOpen,
               'aria-label': 'Search for option',
+              'aria-hidden': true,
               'ref': 'search',
               'role': 'combobox',
               'type': 'search',
